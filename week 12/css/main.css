@@ -1,0 +1,15 @@
+header{
+    background-color: lightpink;
+    font-family: "Pinyon Script", cursive;
+}
+
+.banner{
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 1rem;
+}
+
+h1{
+    font-family: "Pinyon Script", cursive;
+    font-weight: 700;
+}
